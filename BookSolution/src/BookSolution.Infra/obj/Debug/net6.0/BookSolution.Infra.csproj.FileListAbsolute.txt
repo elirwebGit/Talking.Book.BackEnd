@@ -13,3 +13,13 @@ D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\obj\Debug\net6.
 D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\obj\Debug\net6.0\refint\BookSolution.Infra.dll
 D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\obj\Debug\net6.0\BookSolution.Infra.pdb
 D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\obj\Debug\net6.0\ref\BookSolution.Infra.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\bin\Debug\net6.0\BookSolution.Infra.dll.config
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\bin\Debug\net6.0\Microsoft.Data.Tools.Schema.Sql.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\bin\Debug\net6.0\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\bin\Debug\net6.0\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\bin\Debug\net6.0\Microsoft.Data.Tools.Utilities.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\bin\Debug\net6.0\Microsoft.SqlServer.TransactSql.ScriptDom.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\bin\Debug\net6.0\pt-BR\Microsoft.Data.Tools.Schema.Sql.resources.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\bin\Debug\net6.0\pt-BR\Microsoft.Data.Tools.Schema.Sql.UnitTesting.resources.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\bin\Debug\net6.0\pt-BR\Microsoft.Data.Tools.Utilities.resources.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\bin\Debug\net6.0\pt-BR\Microsoft.SqlServer.TransactSql.ScriptDom.resources.dll

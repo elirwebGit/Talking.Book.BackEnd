@@ -40,13 +40,10 @@ namespace BookSolution.API.Controller
                 return CreatedAtAction(nameof(GetById), new { id = livro.Codigo }, livro);
             }
 
-            [HttpPut("{id}")]
-            public async Task<IActionResult> Update(int id, [FromBody] LivroRequest livro)
+            [HttpPut("{livroId}")]
+            public async Task<IActionResult> Update(int livroId, [FromBody] LivroRequest livro)
             {
-                if (id != livro.Codigo)
-                {
-                    return BadRequest();
-                }
+                livro.Codigo = livroId;
                 await _livroApp.UpdateBookAsync(livro);
                 return NoContent();
             }

@@ -1,5 +1,4 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace BookSolution.Domain
 {
@@ -9,12 +8,11 @@ namespace BookSolution.Domain
         public string? Titulo { get; set; }
         public string? Autor { get; set; }
         public DateTime Lancamento { get; set; }
-        public string? Descricao { get; set; }
         [Required]
         public string TipoLivro { get; set; }
         [Required]
         public Tag Tag { get; set; }
-        public TipoEncadernacao? TipoEncadernacao { get; set; }
+        public TipoEncadernacao? TipoEncadernacao { get; set; } = new TipoEncadernacao();
     }
 
     public class Tag { 

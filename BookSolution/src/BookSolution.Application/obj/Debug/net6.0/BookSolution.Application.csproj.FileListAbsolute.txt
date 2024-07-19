@@ -15,3 +15,4 @@ D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\obj\Debug
 D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\obj\Debug\net6.0\refint\BookSolution.Application.dll
 D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\obj\Debug\net6.0\BookSolution.Application.pdb
 D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\obj\Debug\net6.0\ref\BookSolution.Application.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\bin\Debug\net6.0\BookSolution.Infra.dll.config

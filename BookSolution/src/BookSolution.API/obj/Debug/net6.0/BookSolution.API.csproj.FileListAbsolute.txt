@@ -40,3 +40,4 @@ D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.API\obj\Debug\net6.0\
 D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.API\obj\Debug\net6.0\ref\BookSolution.API.dll
 D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.API\bin\Debug\net6.0\BookSolution.Infra.dll.config
