@@ -73,10 +73,31 @@ BEGIN
 	
 END
 
-
-
-SELECT * FROM Livro where DATEPART(YEAR,'2024-07-19')= 2024
-EXEC sp_GetAllBooks  @mes = 7;
+go
+CREATE PROCEDURE sp_GetBookById
+    @Id INT
+AS
+BEGIN
+    SELECT * FROM Livro WHERE Codigo = @Id
+END
+go
+USE [TalkingBoook]
+GO
+/****** Object:  StoredProcedure [dbo].[sp_UpdateBook]    Script Date: 19/07/2024 15:45:09 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+ ALTER   PROCEDURE [dbo].[sp_UpdateBook]
+    @Codigo INT,
+    @Titulo NVARCHAR(100),
+    @Autor NVARCHAR(100),
+    @Lancamento datetime
+AS
+BEGIN
+    UPDATE Livro  SET Titulo = @Titulo, Autor = @Autor, Lancamento = @Lancamento
+	WHERE Codigo = @Codigo
+END
 
 
 
