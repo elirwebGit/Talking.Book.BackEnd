@@ -16,7 +16,7 @@ namespace BookSolution.Application
             return await _livroRepositorio.GetAllAsync(livroParametro);
         }
 
-        public async Task<LivroRequest> GetBookByIdAsync(int id)
+        public async Task<LivroResponse> GetBookByIdAsync(int id)
         {
             return await _livroRepositorio.GetByIdAsync(id);
         }

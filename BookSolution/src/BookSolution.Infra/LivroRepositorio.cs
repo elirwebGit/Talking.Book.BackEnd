@@ -30,11 +30,11 @@ namespace BookSolution.Infra
             }
         }
 
-        public async Task<LivroRequest> GetByIdAsync(int livroId)
+        public async Task<LivroResponse> GetByIdAsync(int livroId)
         {
             using (var connection = new SqlConnection(_connectionString))
             {
-                return await connection.QueryFirstAsync<LivroRequest>("sp_GetBookById", new { Id = livroId}, commandType: CommandType.StoredProcedure);
+                return await connection.QueryFirstAsync<LivroResponse>("sp_GetBookById", new { Id = livroId}, commandType: CommandType.StoredProcedure);
             }
         }
 
