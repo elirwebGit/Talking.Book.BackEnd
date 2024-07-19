@@ -1,0 +1,42 @@
+create database TalkingBoook
+go
+
+
+create table  Livro
+(
+Codigo int identity primary key,
+Titulo varchar(30),
+Autor varchar(30),
+Lancamento datetime
+)
+go
+
+ create table LivroDigital
+(
+Codigo int identity primary key, 
+LivroId int FOREIGN KEY REFERENCES Livro(Codigo) 
+)
+go
+create table LivroImpressao
+(
+Codigo int identity primary key,
+LivroId int FOREIGN KEY REFERENCES Livro(Codigo) 
+)
+
+go
+create table Tag 
+(
+Codigo int identity primary key,
+Descricao varchar(100),
+LivroId int FOREIGN KEY REFERENCES Livro(Codigo) 
+)
+
+go
+create table TipoEncadernacao
+(
+Codigo int identity primary key,
+Nome varchar(50),
+Descricao varchar(50),
+Formato varchar(50),
+LivroImpressaoId int FOREIGN KEY REFERENCES LivroImpressao(Codigo) 
+)
