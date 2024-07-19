@@ -1,0 +1,12 @@
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Domain\bin\Debug\net6.0\BookSolution.Domain.deps.json
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Domain\bin\Debug\net6.0\BookSolution.Domain.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Domain\bin\Debug\net6.0\BookSolution.Domain.pdb
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Domain\obj\Debug\net6.0\BookSolution.Domain.csproj.AssemblyReference.cache
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Domain\obj\Debug\net6.0\BookSolution.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Domain\obj\Debug\net6.0\BookSolution.Domain.AssemblyInfoInputs.cache
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Domain\obj\Debug\net6.0\BookSolution.Domain.AssemblyInfo.cs
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Domain\obj\Debug\net6.0\BookSolution.Domain.csproj.CoreCompileInputs.cache
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Domain\obj\Debug\net6.0\BookSolution.Domain.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Domain\obj\Debug\net6.0\refint\BookSolution.Domain.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Domain\obj\Debug\net6.0\BookSolution.Domain.pdb
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Domain\obj\Debug\net6.0\ref\BookSolution.Domain.dll

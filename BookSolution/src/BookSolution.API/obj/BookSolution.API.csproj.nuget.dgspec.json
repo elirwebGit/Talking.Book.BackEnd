@@ -1,0 +1,293 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.API\\BookSolution.API.csproj": {}
+  },
+  "projects": {
+    "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.API\\BookSolution.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.API\\BookSolution.API.csproj",
+        "projectName": "BookSolution.API",
+        "projectPath": "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.API\\BookSolution.API.csproj",
+        "packagesPath": "C:\\Users\\elirw\\.nuget\\packages\\",
+        "outputPath": "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elirw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Application\\BookSolution.Application.csproj": {
+                "projectPath": "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Application\\BookSolution.Application.csproj"
+              },
+              "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Domain\\BookSolution.Domain.csproj": {
+                "projectPath": "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Domain\\BookSolution.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Application\\BookSolution.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Application\\BookSolution.Application.csproj",
+        "projectName": "BookSolution.Application",
+        "projectPath": "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Application\\BookSolution.Application.csproj",
+        "packagesPath": "C:\\Users\\elirw\\.nuget\\packages\\",
+        "outputPath": "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elirw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Domain\\BookSolution.Domain.csproj": {
+                "projectPath": "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Domain\\BookSolution.Domain.csproj"
+              },
+              "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Infra\\BookSolution.Infra.csproj": {
+                "projectPath": "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Infra\\BookSolution.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Domain\\BookSolution.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Domain\\BookSolution.Domain.csproj",
+        "projectName": "BookSolution.Domain",
+        "projectPath": "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Domain\\BookSolution.Domain.csproj",
+        "packagesPath": "C:\\Users\\elirw\\.nuget\\packages\\",
+        "outputPath": "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elirw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Infra\\BookSolution.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Infra\\BookSolution.Infra.csproj",
+        "projectName": "BookSolution.Infra",
+        "projectPath": "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Infra\\BookSolution.Infra.csproj",
+        "packagesPath": "C:\\Users\\elirw\\.nuget\\packages\\",
+        "outputPath": "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elirw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Domain\\BookSolution.Domain.csproj": {
+                "projectPath": "D:\\work\\Talking.Book.BackEnd\\BookSolution\\src\\BookSolution.Domain\\BookSolution.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

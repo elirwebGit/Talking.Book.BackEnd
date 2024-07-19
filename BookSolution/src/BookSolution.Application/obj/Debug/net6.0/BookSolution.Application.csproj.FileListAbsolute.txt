@@ -1,0 +1,17 @@
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\bin\Debug\net6.0\BookSolution.Application.deps.json
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\bin\Debug\net6.0\BookSolution.Application.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\bin\Debug\net6.0\BookSolution.Application.pdb
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\bin\Debug\net6.0\BookSolution.Domain.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\bin\Debug\net6.0\BookSolution.Infra.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\bin\Debug\net6.0\BookSolution.Domain.pdb
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\bin\Debug\net6.0\BookSolution.Infra.pdb
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\obj\Debug\net6.0\BookSolution.Application.csproj.AssemblyReference.cache
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\obj\Debug\net6.0\BookSolution.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\obj\Debug\net6.0\BookSolution.Application.AssemblyInfoInputs.cache
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\obj\Debug\net6.0\BookSolution.Application.AssemblyInfo.cs
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\obj\Debug\net6.0\BookSolution.Application.csproj.CoreCompileInputs.cache
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\obj\Debug\net6.0\BookSolution.Application.csproj.CopyComplete
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\obj\Debug\net6.0\BookSolution.Application.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\obj\Debug\net6.0\refint\BookSolution.Application.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\obj\Debug\net6.0\BookSolution.Application.pdb
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Application\obj\Debug\net6.0\ref\BookSolution.Application.dll

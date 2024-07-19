@@ -1,0 +1,15 @@
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\bin\Debug\net6.0\BookSolution.Infra.deps.json
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\bin\Debug\net6.0\BookSolution.Infra.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\bin\Debug\net6.0\BookSolution.Infra.pdb
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\bin\Debug\net6.0\BookSolution.Domain.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\bin\Debug\net6.0\BookSolution.Domain.pdb
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\obj\Debug\net6.0\BookSolution.Infra.csproj.AssemblyReference.cache
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\obj\Debug\net6.0\BookSolution.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\obj\Debug\net6.0\BookSolution.Infra.AssemblyInfoInputs.cache
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\obj\Debug\net6.0\BookSolution.Infra.AssemblyInfo.cs
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\obj\Debug\net6.0\BookSolution.Infra.csproj.CoreCompileInputs.cache
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\obj\Debug\net6.0\BookSolution.Infra.csproj.CopyComplete
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\obj\Debug\net6.0\BookSolution.Infra.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\obj\Debug\net6.0\refint\BookSolution.Infra.dll
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\obj\Debug\net6.0\BookSolution.Infra.pdb
+D:\work\Talking.Book.BackEnd\BookSolution\src\BookSolution.Infra\obj\Debug\net6.0\ref\BookSolution.Infra.dll
